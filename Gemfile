@@ -25,11 +25,11 @@ gem "turbo-rails"
 gem "stimulus-rails"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
-<<<<<<< hotfix/home
+<<<<<<< "hotfix/home"
 gem "jbuilder"
 =======
 # gem "jbuilder"
->>>>>>> main
+>>>>>>> "main"
 # Use Redis adapter to run Action Cable in production
 gem "redis", "~> 4.0"
 
